@@ -1,5 +1,5 @@
 # SAE 2.02
-# Etape 1
+# Étape 1
 
 • La structure d’un fichier et l’algorithme qui permet de le lire et générer le graphe
   
