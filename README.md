@@ -6,4 +6,4 @@
 
 • Faire le diagramme UML de votre projet.
 
-(https://cdn.discordapp.com/attachments/1115198371846688848/1115546629559308288/image.png)
+(https://cdn.discordapp.com/attachments/1115198371846688848/1115554197346193458/image.png)
