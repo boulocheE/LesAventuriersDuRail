@@ -1,5 +1,8 @@
-# SAE 2.02
-# Étape 1
+> **Equipe 6 :** BOULOCHE Eléonore, LEBARON Alizea, LESTERLIN Maximilien, MARROUCHE Mohamad, PORET Mathys
+>
+> **Année :** 1ère
+
+**IUT Le Havre - Projet SAE 2.02  .  ETAPE 1**
 
 • La structure d’un fichier et l’algorithme qui permet de le lire et générer le graphe
   
