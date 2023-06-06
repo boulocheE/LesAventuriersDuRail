@@ -18,4 +18,9 @@
 4. Les arêtes peuvent être valuées et peuvent être colorées,
 5. Par la suite, on va colorier les arêtes de façon manuelle, avec des contraintes.
 
+  Pour colorier une arête, nous allons placer sur l'interface deux champs de texte pour préciser le sommet que la personne veut colorier et en quelle couleur.
+
+
+
+
 (https://cdn.discordapp.com/attachments/1115198371846688848/1115554197346193458/image.png)
