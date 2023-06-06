@@ -6,4 +6,12 @@
 
 • Faire le diagramme UML de votre projet.
 
+## Contraintes
+
+1. Chaque sommet a une position (x,y) sur un plan 
+2. Chaque sommet appartient à une région (sous-graphe) et une seule
+3. Chaque sommet est relié à d’autres sommets (arêtes),
+4. Les arêtes peuvent être valuées et peuvent être colorées,
+5. Par la suite, on va colorier les arêtes de façon manuelle, avec des contraintes.
+
 (https://cdn.discordapp.com/attachments/1115198371846688848/1115554197346193458/image.png)
