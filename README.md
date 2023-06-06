@@ -9,6 +9,7 @@
 ## Contraintes
 
 1. Chaque sommet a une position (x,y) sur un plan 
+ 
   Pour répondre à cette contrainte, nous avons réfléchis à mettre des attributs a nos noeux, deux précisément. Un pour les 'x' et un autre pour les 'y', compris sur un plan abscisse/ordonnée.
 
 2. Chaque sommet appartient à une région (sous-graphe) et une seule
